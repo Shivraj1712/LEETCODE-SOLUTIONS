@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -39,11 +41,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## String Matching
