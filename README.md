@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
