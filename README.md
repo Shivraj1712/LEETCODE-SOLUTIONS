@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 <!---LeetCode Topics End-->
