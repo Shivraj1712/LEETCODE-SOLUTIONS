@@ -37,6 +37,7 @@
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
+| [3151-special-array-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/3151-special-array-i) |
 ## Simulation
 |  |
 | ------- |
