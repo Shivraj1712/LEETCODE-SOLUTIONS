@@ -32,6 +32,7 @@
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 ## String Matching
 |  |
 | ------- |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
