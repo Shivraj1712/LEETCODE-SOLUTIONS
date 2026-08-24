@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
