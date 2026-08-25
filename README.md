@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 ## Array
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
