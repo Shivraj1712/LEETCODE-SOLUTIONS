@@ -36,6 +36,7 @@
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
@@ -97,5 +98,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
