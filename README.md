@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 ## Counting Sort
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
