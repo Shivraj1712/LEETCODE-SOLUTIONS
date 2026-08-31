@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
