@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
