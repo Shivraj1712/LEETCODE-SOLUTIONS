@@ -49,6 +49,7 @@
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
+| [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 ## Design
 |  |
 | ------- |
