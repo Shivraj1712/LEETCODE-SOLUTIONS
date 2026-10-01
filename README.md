@@ -59,6 +59,7 @@
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2678-number-of-senior-citizens](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
 | [3151-special-array-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/3151-special-array-i) |
 ## Simulation
@@ -75,6 +76,7 @@
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
