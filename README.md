@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
@@ -49,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
@@ -73,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
 | ------- |
@@ -156,4 +160,8 @@
 |  |
 | ------- |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
