@@ -57,6 +57,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
+| [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -79,6 +80,7 @@
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
