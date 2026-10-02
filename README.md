@@ -57,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
@@ -85,6 +86,7 @@
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Design
