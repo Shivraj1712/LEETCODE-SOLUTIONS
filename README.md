@@ -63,6 +63,7 @@
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2678-number-of-senior-citizens](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
 | [3151-special-array-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/3151-special-array-i) |
@@ -83,6 +84,7 @@
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
