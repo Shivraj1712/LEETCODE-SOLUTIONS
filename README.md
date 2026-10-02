@@ -19,6 +19,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
@@ -80,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
