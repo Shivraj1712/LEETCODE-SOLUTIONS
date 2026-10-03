@@ -26,6 +26,7 @@
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0890-find-and-replace-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
@@ -63,6 +64,7 @@
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0890-find-and-replace-pattern](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
@@ -98,6 +100,7 @@
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1748-sum-of-unique-elements) |
