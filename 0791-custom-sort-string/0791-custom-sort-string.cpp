@@ -1,24 +1,20 @@
 class Solution {
 public:
     string customSortString(string order, string s) {
+        unordered_map<char,int> freq;
+        for(auto i : s) freq[i]++;
         string temp = "";
-        unordered_map<char,int> fs;
-        for(auto i : s) fs[i]++;
-        for(auto i = 0 ; i < order.size(); ++i){
-            if(s.find(order[i]) != string::npos){
-                while(fs[order[i]] > 0){
-                    temp += order[i];
-                    fs[order[i]]--;
+        for(auto i : order){
+            if(freq.find(i) != freq.end()){
+                for(auto j = 0 ; j < freq[i]; ++j){
+                    temp += i;
                 }
-                if(fs[order[i]] == 0) fs.erase(order[i]);
+                freq.erase(i);
             }
         }
-        if(fs.size() != 0){
-            for(auto &[ch,count] : fs){
-                while(count > 0){
-                    temp += ch;
-                    count--;
-                }
+        for(auto &[ch,count] : freq){
+            for(auto i = 0 ; i < count ; ++i){
+                temp += ch;
             }
         }
         return temp;
