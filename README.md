@@ -21,6 +21,7 @@
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
@@ -39,6 +40,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0647-palindromic-substrings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
