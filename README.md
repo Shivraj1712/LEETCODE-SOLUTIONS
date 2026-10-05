@@ -25,6 +25,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
@@ -65,6 +66,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -103,6 +105,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
