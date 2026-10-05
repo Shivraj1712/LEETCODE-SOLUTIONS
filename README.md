@@ -31,6 +31,7 @@
 | [0771-jewels-and-stones](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0890-find-and-replace-pattern) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
@@ -74,6 +75,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
@@ -111,6 +113,7 @@
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -129,6 +132,7 @@
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [1051-height-checker](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1051-height-checker) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String Matching
 |  |
@@ -145,6 +149,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Counting Sort
 |  |
 | ------- |
