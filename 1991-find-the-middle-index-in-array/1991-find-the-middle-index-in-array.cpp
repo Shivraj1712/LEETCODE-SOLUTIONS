@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int findMiddleIndex(vector<int>& nums) {
+        int n(nums.size()) ;
+        vector<int> prefix(n+1,0);
+        for(auto i = 0 ; i < n ; ++i){
+            prefix[i+1] = prefix[i] + nums[i];
+        }
+        for(auto i = 0 ; i < n ; ++i){
+            int left{prefix[i+1] - prefix[0]};
+            int right{prefix[n] - prefix[i]};
+            if(left == right) return i ;
+        }
+        return -1;
+    }
+};
