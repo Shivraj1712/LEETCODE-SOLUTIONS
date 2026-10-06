@@ -85,6 +85,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -184,6 +185,7 @@
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |
