@@ -214,6 +214,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
