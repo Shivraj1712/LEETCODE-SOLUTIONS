@@ -62,6 +62,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
