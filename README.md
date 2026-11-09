@@ -59,6 +59,7 @@
 | [0015-3sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
@@ -130,6 +131,7 @@
 | [0015-3sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
