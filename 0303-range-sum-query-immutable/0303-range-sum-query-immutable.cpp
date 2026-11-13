@@ -1,17 +1,18 @@
+// TC for the NumArray - O(n) and sumRange - O(1)
+// prefix sum with p[l...r]
+using ll = long long;
 class NumArray {
 public:
-    vector<int>p ;
+    vector<ll> prefix;
     NumArray(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> temp(n+1,0);
-        for(auto i = 0 ; i < n ; ++i){
-            temp[i+1] = temp[i] + nums[i];
+        prefix.resize(nums.size()+1);
+        for(auto i = 0 ; i < nums.size(); ++i){
+            prefix[i+1] = prefix[i] + nums[i];
         }
-        p = temp ;
     }
     
     int sumRange(int left, int right) {
-        return p[right+1] - p[left];
+        return prefix[right+1] - prefix[left];
     }
 };
 
