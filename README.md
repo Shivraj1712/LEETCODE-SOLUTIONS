@@ -82,6 +82,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1408-string-matching-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1748-sum-of-unique-elements) |
@@ -187,6 +188,7 @@
 | [0724-find-pivot-index](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
+| [1480-running-sum-of-1d-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivraj1712/LEETCODE-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
